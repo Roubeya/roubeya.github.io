@@ -1,0 +1,75 @@
+*
+{
+	background:linear-gradient(to top, lightgrey,gainsboro,ivory) fixed;
+	font-size:1.1em;
+	font-family: 'Neuton', serif;
+	margin:0px;
+}
+
+h1
+{
+	font-size:3em;
+	background:floralwhite;
+	cursor:pointer;
+	font-family:'Rancho', cursive;
+}
+
+h1 a
+{
+	text-decoration:none;
+	color:black;
+	font-family:'Rancho', cursive;
+	background:floralwhite;
+}
+
+main
+{
+	margin:5%;
+	border:2px solid black;
+	background:floralwhite;
+	padding:20px;
+}
+
+p 
+{
+	background:floralwhite;
+}
+
+
+main h1 a:hover
+{
+	color:Moccasin;
+	text-shadow:1px 1px 1px black;
+	transition:0.3s;
+}
+
+nav ul
+{
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	text-align:right;
+}
+
+nav ul li  
+{
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	padding-left:10px;
+	padding-right:30px;
+	padding-bottom:10px;
+	display:inline-block;
+}
+
+nav ul li a
+{
+	font-family: 'Pacifico', cursive;
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	color:lightyellow;
+	font-size:21px;
+	text-decoration:none;
+	display:inline-block;
+}
+
+li a:hover
+{
+	color:black;
+	transition:0.5s;
+}
