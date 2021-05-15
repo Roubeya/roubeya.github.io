@@ -73,3 +73,20 @@ li a:hover
 	color:black;
 	transition:0.5s;
 }
+
+center
+{
+	background:floralwhite;
+}
+
+img
+{
+	background:floralwhite;
+}
+
+p a
+{
+	text-decoration:none;
+	background:floralwhite;
+	color:tomato;
+}
