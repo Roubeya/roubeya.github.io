@@ -93,6 +93,11 @@ p a
 	color:tomato;
 }
 
+p a:hover
+{
+        text-shadow:0.2px 0.2px 0.2px firebrick;
+}
+
 h2 
 {
 	font-family: 'Acme', sans-serif;
