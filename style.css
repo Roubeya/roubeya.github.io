@@ -40,8 +40,8 @@ p
 
 main h1 a:hover
 {
-	color:Moccasin;
-	text-shadow:1px 1px 1px black;
+	color:lightblue;
+	text-shadow:2px 2px 2px black;
 	transition:0.3s;
 }
 
