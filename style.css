@@ -1,0 +1,136 @@
+*
+{
+	background:linear-gradient(to top, lightgrey,gainsboro,ivory) fixed;
+	font-family: 'Neuton', serif;
+	margin:0px;
+	font-size:25px;
+	transition:0.5s;
+}
+
+h1
+{
+	font-size:3em;
+	background:floralwhite;
+	cursor:pointer;
+	font-family:'Rancho', cursive;
+}
+
+h1 a
+{
+	text-decoration:none;
+	font-size:4rem;
+	color:black;
+	font-family:'Rancho', cursive;
+	background:floralwhite;
+}
+
+main
+{
+	margin:5%;
+	border:2px solid black;
+	background:floralwhite;
+	padding:20px;
+}
+
+p 
+{
+	background:floralwhite;
+}
+
+
+main h1 a:hover
+{
+	color:lightblue;
+	text-shadow:2px 2px 2px black;
+	transition:0.3s;
+}
+
+nav ul
+{
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	text-align:right;
+}
+
+nav ul li  
+{
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	padding-left:10px;
+	padding-right:30px;
+	padding-bottom:10px;
+	display:inline-block;
+}
+
+nav ul li a
+{
+	font-family: 'Pacifico', cursive;
+	background:linear-gradient(to left ,lightseagreen,lightskyblue,lightcyan) fixed;
+	color:lightyellow;
+	font-size:21px;
+	text-decoration:none;
+	display:inline-block;
+}
+
+li a:hover
+{
+	color:black;
+	transition:0.5s;
+}
+
+center
+{
+	background:floralwhite;
+}
+
+img
+{
+	background:floralwhite;
+}
+
+p a
+{
+	text-decoration:none;
+	background:floralwhite;
+	color:tomato;
+	transition:0.2s;
+}
+
+p a:hover
+{
+	text-shadow:0.2px 0.2px 0.2px firebrick;
+}
+
+h2 
+{
+	font-family: 'Acme', sans-serif;
+	font-size: 40px;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+	background:floralwhite;
+}
+
+h2:hover
+{
+	cursor:pointer;
+}
+
+table , table tr td 
+{
+	text-align:left;
+	background:floralwhite;
+	text-decoration:none;
+}
+
+table tr td a
+{
+        color:tomato;
+	background:floralwhite;
+	text-decoration:none;
+}
+
+table a:hover
+{
+        text-shadow:0.2px 0.2px 0.2px firebrick;
+	transition:0.1s;
+}
+
+
